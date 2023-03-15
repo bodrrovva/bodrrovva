@@ -3,8 +3,7 @@
 ## Technology and tools
 
 ### Technology stack
-- iOS SDK
-- HIG
+- iOS SDK, HIG
 - UIkit, Swift UI
 - MVC, MVVM, VIPER 
 - UserDefaults
@@ -58,5 +57,5 @@ Adobe illustrator, Sketch
 
 ## Simple learning projects
 - [Greeting (VIPER)](https://github.com/bodrrovva/GreetingVIPER)
-- [Weather](https://github.com/bodrrovva/Weather)
+- [Weather (MVC, UIKit, URLSession, CoreLocation, GCD)](https://github.com/bodrrovva/Weather)
 
