@@ -4,7 +4,7 @@
 
 ### Technology stack
 - iOS SDK, HIG
-- UIkit, Swift UI
+- UIKit, SwiftUI
 - MVC, MVVM, VIPER 
 - UserDefaults
 - URLSession
@@ -21,16 +21,6 @@
 <img src="https://developer.apple.com/design/human-interface-guidelines/images/intro/foundations/foundations-icons-intro-dark_2x.png" title="HIG" alt="HIG" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" height="50"/>
 <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" title="SwiftUI" alt="SwiftUI" height="50"/>
-<!--
-<img src="https://github.com/Alamofire/Alamofire/blob/master/Resources/AlamofireLogo.png" title="Alamofire" alt="Alamofire" height="50"/>
-<img src="https://avatars.githubusercontent.com/u/8858017?s=200&v=4" alt="Alamofire" height="50"/>
-<img src="https://raw.githubusercontent.com/realm/realm-swift/master/logo.png" alt="Alamofire" height="50"/>
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/BC7A3DB7-B8A7-45C1-9E0B-8FF2CF80A97C/2048.jpeg" alt="Alamofire" height="50"/>
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/790ADAB4-7317-4C5B-BC08-7DA920264F40/2048.jpeg" alt="Alamofire" height="50"/>
-<img src="https://developer.apple.com/assets/elements/icons/maps/maps-128x128_2x.png" alt="Alamofire" height="50"/>
-<img src="https://user-images.githubusercontent.com/76218746/225300160-84c4f325-df7e-4908-a545-b15a189ee843.png" alt="Alamofire" height="50"/>
-<img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/F541176B-3578-46D1-B659-B51A3D263C06/2048.jpeg" alt="Alamofire" height="50"/>
--->
 </div>
 
 ### Tools
@@ -50,7 +40,7 @@ Adobe illustrator, Sketch
 </div>
 
 ## Pet project
-- [Cookie (SpriteKit, GameplayKit, CoreMotion)](https://github.com/bodrrovva/CookieSpriteKit)
+- [Cookie (SpriteKit, GameplayKit, CoreMotion, URLSession)](https://github.com/bodrrovva/CookieSpriteKit)
 
 ## Simple learning projects
 - [Greeting (VIPER)](https://github.com/bodrrovva/GreetingVIPER)
