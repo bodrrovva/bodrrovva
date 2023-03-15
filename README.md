@@ -34,16 +34,13 @@
 </div>
 
 ### Tools
-- GitHub, GitLab
 - Xcode
 - Postman
 - Figma, Adobe XD,
 Adobe illustrator, Sketch
 
 
-<div align="center">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" height="50"/>
-<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" title="GitLab" alt="GitLab"  height="50"/>  
+<div align="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" title="Xcode" alt="Xcode" height="50"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman" alt="Postman" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="50"/>
