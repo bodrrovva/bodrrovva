@@ -9,7 +9,7 @@
 - MVC, MVVM, VIPER 
 - UserDefaults
 - URLSession, Alamofir, SwiftyJSON
-- CGD
+- GCD
 - SDWebImage
 - CoreData
 - CoreMotion
