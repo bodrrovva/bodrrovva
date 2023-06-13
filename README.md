@@ -5,12 +5,12 @@
 ### Technology stack
 - iOS SDK, HIG
 - UIKit, SwiftUI
+- AutoLayout, Storyboard, SnapKit
 - MVC, MVVM, VIPER 
 - UserDefaults
-- URLSession
-- Alamofir
-- SwiftyJSON
-- RealmSwift
+- URLSession, Alamofir, SwiftyJSON
+- CGD
+- SDWebImage
 - CoreData
 - CoreMotion
 - MapKit
@@ -18,7 +18,6 @@
 
 <div align="center">
 <img src="https://developer.apple.com/assets/elements/icons/sdk-16/sdk-16-128x128_2x.png" title="iOS SDK" alt="iOS SDK" height="50"/>
-<img src="https://developer.apple.com/design/human-interface-guidelines/images/intro/foundations/foundations-icons-intro-dark_2x.png" title="HIG" alt="HIG" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" height="50"/>
 <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" title="SwiftUI" alt="SwiftUI" height="50"/>
 </div>
@@ -41,6 +40,9 @@ Adobe illustrator, Sketch
 
 ## Pet project
 - [Cookie (SpriteKit, GameplayKit, CoreMotion, URLSession)](https://github.com/bodrrovva/CookieSpriteKit)
+
+## Test Task
+- [4spaces_test](https://github.com/bodrrovva/4spaces_test)
 
 ## Simple learning projects
 - [Greeting (VIPER)](https://github.com/bodrrovva/GreetingVIPER)
