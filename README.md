@@ -46,5 +46,3 @@ Adobe illustrator, Sketch
 
 ## Simple learning projects
 - [Greeting (VIPER)](https://github.com/bodrrovva/GreetingVIPER)
-- [Weather (MVC, UIKit, URLSession, CoreLocation, GCD)](https://github.com/bodrrovva/Weather)
-
